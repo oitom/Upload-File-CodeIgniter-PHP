@@ -1,2 +1,2 @@
 # Upload file com CodeIgniter PHP
-Aplicação simples de upload de arquivos com teste AB
+Aplicação simples de upload de arquivos com framework CodeIgniter PHP e testes de requisições AB (Apache Bench) 
